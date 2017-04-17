@@ -1,0 +1,7 @@
+Player: Curtis
+Your number of Wins is6
+Your number of Losses is1
+Your Win ratio is 0.857143
+Your Loss ratio is 0.142857
+Your Win/Loss ratio is 6
+Your ending balance is $45
