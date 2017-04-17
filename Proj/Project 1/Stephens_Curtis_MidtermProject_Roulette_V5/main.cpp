@@ -217,8 +217,8 @@ int main(int argc, char** argv) {
     ofstream outputFile;
     outputFile.open("Output.txt");
     outputFile << "Player: " << name << endl;
-    outputFile << "Your number of Wins is" << wins << endl;
-    outputFile << "Your number of Losses is" << losses << endl;
+    outputFile << "Your number of Wins is " << wins << endl;
+    outputFile << "Your number of Losses is " << losses << endl;
     outputFile << "Your Win ratio is " << winRatio << endl;
     outputFile << "Your Loss ratio is " << loseRatio << endl;
     outputFile << "Your Win/Loss ratio is " << winLost << endl;
