@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
     //Declare variables
     float a,b,c,d, highest;
     //Initialize variables
-    
+    cout<<"Program for figuring out the winning division!\n";
     //Input data
     cout<<"How much did the Northeast sale this quarter? $";
     a=getsales();

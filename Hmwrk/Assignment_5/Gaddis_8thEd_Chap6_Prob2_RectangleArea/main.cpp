@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     //Declare variables
     float length, width, area;
     //Initialize variables
+    cout<<"Program for figuring out the area of a rectangle!\n";
     length=getLength();
     width=getWidth();
     area=getArea(length, width);

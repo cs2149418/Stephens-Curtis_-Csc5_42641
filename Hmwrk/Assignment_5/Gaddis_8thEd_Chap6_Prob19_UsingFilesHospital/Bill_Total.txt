@@ -1,0 +1,6 @@
+In-Patient Bill
+How many days did you stay? 23
+How much did your stay cost per day? $43
+How much did your medications cost? $21
+How much were your charges for hospital services? $4
+Your hospital stay will come out to $1014
